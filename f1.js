@@ -1,4 +1,4 @@
  function helo(){
     console.log("first")
-    return "Helo 1";
+    return "Helo from 1";
 }
